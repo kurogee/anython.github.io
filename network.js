@@ -10,7 +10,7 @@ class GetJapanEarthquakeData {
             {
               opcode: 'get', // このブロックが実行されると、helloという関数が呼ばれる
               blockType: Scratch.BlockType.COMMAND,　// 「10歩動かす」のような通常の命令ブロック
-              text: 'Get the newest Earthquake Data in Japan' // ブロックに表示されるテキスト
+              text: 'Get-the-newest-Earthquake-Data-in-Japan' // ブロックに表示されるテキスト
             }
         ]
       }
