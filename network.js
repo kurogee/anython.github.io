@@ -31,4 +31,4 @@ class GetJapanEarthquakeData {
     }
 }
   
-Scratch.extensions.register(new Test());
+Scratch.extensions.register(new GetJapanEarthquakeData());
